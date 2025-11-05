@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+
+# WebDriverIO configuration and reports
+wdio.conf.js
+*.log
+*.out
+*.json
+
+# Test reports and screenshots
+report/
+allure-results/
+allure-report/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Coverage directories
+coverage/
+
+# NPM package-lock file
+package-lock.json
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
