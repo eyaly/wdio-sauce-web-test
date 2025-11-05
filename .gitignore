@@ -5,7 +5,7 @@ node_modules/
 wdio.conf.js
 *.log
 *.out
-*.json
+
 
 # Test reports and screenshots
 report/
