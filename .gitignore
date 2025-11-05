@@ -22,7 +22,7 @@ Thumbs.db
 coverage/
 
 # NPM package-lock file
-package-lock.json
+# package-lock.json
 
 # Temporary files
 *.swp
